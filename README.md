@@ -11,8 +11,10 @@ Here are some ideas to get you started:
   C programming language
 
   How to be a productive person
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+  
   [beda7834@colorado.edu](mailto:beda7834@colorado.edu)
+  
   [LinkedIn](https://www.linkedin.com/in/ben-davison-009142281/)
 <!--
 - 👯 I’m looking to collaborate on ...
