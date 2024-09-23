@@ -3,10 +3,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
+  
   BS Computer Science at CU Boulder
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
+  
   C programming language
+
   How to be a productive person
 - 📫 How to reach me: ...
   [beda7834@colorado.edu](mailto:beda7834@colorado.edu)
